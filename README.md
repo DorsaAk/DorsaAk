@@ -1,12 +1,16 @@
+# About me
+
+Electrical Engineering undergraduate at Sharif University of Technology, focused on digital hardware design, computer architecture, and embedded systems.
+
+Exploring RTL design, FPGA-based systems, and VLSI, while expanding my skills across hardware and software.
 
 
 
-
-## 🌐 Socials:
+## 🌐 Socials
 - [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/dorsa-akbari-580821353/)
 - [Email](mailto:DorsaAkbari2005@gmail.com) 
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 <table>
   <tr>
     <td valign="top">
@@ -48,5 +52,5 @@
 </table>
 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=DorsaAk&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+## 📊 GitHub Stats
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=DorsaAk&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact&v=2)
